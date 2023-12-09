@@ -31,7 +31,7 @@ public class App {
                     if (courseUnit >= 1 && courseUnit <= 5) {
                         break; // Break the loop if the input is valid
                     } else {
-                        System.out.println("Error: Course unit must be between 1 and 4. Please try again.");
+                        System.out.println("Error: Course unit must be between 1 and 5. Please try again.");
                     }
                 } catch (InputMismatchException e) {
                     System.out.println("Error: Please enter a valid integer for course unit.");
