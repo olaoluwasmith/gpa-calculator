@@ -12,7 +12,7 @@ This program follows an Object-Oriented Approach, organized in different files.
 
 - CourseModel.java: Defines the CourseModel class representing a course with its attributes.
 - GPA.java: Contains the GPA class, which manages the GPA calculation and result display.
-- App.javas: The main entry point for the program, allowing users to input course details.
+- App.java: The main entry point for the program, allowing users to input course details.
 
 ### Formular used:
 
